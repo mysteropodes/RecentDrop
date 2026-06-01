@@ -7,14 +7,14 @@
     <language>en</language>
     <item>
       <title>Version 1.0</title>
-      <pubDate>Mon, 01 Jun 2026 14:09:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jun 2026 14:20:11 +0200</pubDate>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/mysteropodes/RecentDrop/releases/download/v1.0/RecentDrop-1.0.zip"
-                 length="2676054"
+                 length="2676105"
                  type="application/octet-stream"
-                 sparkle:edSignature="/J75Qsa/9ZGeaUWqBGUCrzq+i+xMHxJ/TqAFanj0Lo/O2x1pYYiIjvuWVjgaQ/v9WWSPoDcx/y+Iht5GdhzWBg==" />
+                 sparkle:edSignature="9v5qMHQCu0XmqtDSHazTz918w9CWI3HBs5KUY1kKUVgMqoiMZuyk8xNw2Xo2trNUfUDRVyq3qZMwDuMS1ZGfBQ==" />
     </item>
   </channel>
 </rss>
