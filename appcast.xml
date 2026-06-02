@@ -6,16 +6,16 @@
     <description>Most recent changes for RecentDrop.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0</title>
-      <description><![CDATA[Première version de RecentDrop.]]></description>
-      <pubDate>Mon, 01 Jun 2026 14:53:40 +0200</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <title>Version 1.1</title>
+      <description><![CDATA[<h3>Nouveautés 1.1</h3><ul><li><b>Fichiers récents bien plus rapides et complets</b> — nouveau moteur basé sur Spotlight : tous les sous-dossiers sont couverts, sans surcharge.</li><li><b>Tous les sous-dossiers s'affichent</b> (plus de limite à quelques-uns).</li><li><b>Navigation et défilement plus fluides.</b></li><li><b>Indicateur de chargement</b> au démarrage.</li><li>Améliorations du multi-fenêtres (épinglage) et corrections diverses.</li></ul><hr><h3>What's new in 1.1</h3><ul><li><b>Much faster, complete recent files</b> — new Spotlight-based engine covering all subfolders, no overhead.</li><li><b>All subfolders now shown.</b></li><li><b>Smoother navigation & scrolling.</b></li><li><b>Loading indicator</b> on launch.</li><li>Multi-window (pinning) improvements and various fixes.</li></ul>]]></description>
+      <pubDate>Tue, 02 Jun 2026 16:17:42 +0200</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/mysteropodes/RecentDrop/releases/download/v1.0/RecentDrop-1.0.zip"
-                 length="2676735"
+      <enclosure url="https://github.com/mysteropodes/RecentDrop/releases/download/v1.1/RecentDrop-1.1.zip"
+                 length="2687153"
                  type="application/octet-stream"
-                 sparkle:edSignature="uWSdVbH2VF2vqgKmf1liabX81g2Y3XgSTkMmZxo3F8bEfXTNcjQa75sSl1g5zPrVIfuxq/UM+Lu2YrFTIafgBw==" />
+                 sparkle:edSignature="R4NVCFRoBwQ/l5SHVGcPQyKHKCFDTvaxnYavAAg9XFTWSEHFEWSmEhDPTs1AmgXvvzPUX+Mhk5Wzbcl3+4X+Dg==" />
     </item>
   </channel>
 </rss>
