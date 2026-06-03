@@ -6,16 +6,16 @@
     <description>Most recent changes for RecentDrop.</description>
     <language>en</language>
     <item>
-      <title>Version 1.1</title>
-      <description><![CDATA[<h3>Nouveautés 1.1</h3><ul><li><b>Fichiers récents bien plus rapides et complets</b> — nouveau moteur basé sur Spotlight : tous les sous-dossiers sont couverts, sans surcharge.</li><li><b>Tous les sous-dossiers s'affichent</b> (plus de limite à quelques-uns).</li><li><b>Navigation et défilement plus fluides.</b></li><li><b>Indicateur de chargement</b> au démarrage.</li><li>Améliorations du multi-fenêtres (épinglage) et corrections diverses.</li></ul><hr><h3>What's new in 1.1</h3><ul><li><b>Much faster, complete recent files</b> — new Spotlight-based engine covering all subfolders, no overhead.</li><li><b>All subfolders now shown.</b></li><li><b>Smoother navigation & scrolling.</b></li><li><b>Loading indicator</b> on launch.</li><li>Multi-window (pinning) improvements and various fixes.</li></ul>]]></description>
-      <pubDate>Tue, 02 Jun 2026 16:17:42 +0200</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <title>Version 1.2</title>
+      <description><![CDATA[<h3>Nouveautés 1.2</h3><ul><li><b>Vue « Ailleurs »</b> — tous les fichiers récents, même hors dossiers surveillés.</li><li><b>Dégradé de récence</b> sur les dates (clair = aujourd'hui → bleu = plus ancien).</li><li><b>Mémoire « Ouvrir avec »</b> par type de fichier.</li><li><b>Miniatures vidéo</b> qui s'affichent même pour les rendus tout juste terminés.</li><li>OneDrive via le partage natif du Finder, message de chargement, et corrections.</li></ul><hr><h3>What's new in 1.2</h3><ul><li><b>« Elsewhere » view</b> — all recent files, even outside watched folders.</li><li><b>Recency gradient</b> on dates (light = today → blue = older).</li><li><b>« Open with » memory</b> per file type.</li><li><b>Video thumbnails</b> now appear even for just-finished renders.</li><li>OneDrive via native Finder sharing, loading message, and fixes.</li></ul>]]></description>
+      <pubDate>Wed, 03 Jun 2026 20:58:40 +0200</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/mysteropodes/RecentDrop/releases/download/v1.1/RecentDrop-1.1.zip"
-                 length="2687153"
+      <enclosure url="https://github.com/mysteropodes/RecentDrop/releases/download/v1.2/RecentDrop-1.2.zip"
+                 length="2704685"
                  type="application/octet-stream"
-                 sparkle:edSignature="R4NVCFRoBwQ/l5SHVGcPQyKHKCFDTvaxnYavAAg9XFTWSEHFEWSmEhDPTs1AmgXvvzPUX+Mhk5Wzbcl3+4X+Dg==" />
+                 sparkle:edSignature="aSjG4WdFHOXElzCgyMfohGl5djAEljw1l6e1/RSQGIvn/5TEFrisPz4Y32LVIy+mr4MxS6cUP6UmZHIaW2xuDA==" />
     </item>
   </channel>
 </rss>
