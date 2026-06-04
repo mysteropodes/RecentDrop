@@ -6,16 +6,16 @@
     <description>Most recent changes for RecentDrop.</description>
     <language>en</language>
     <item>
-      <title>Version 1.2</title>
-      <description><![CDATA[<h3>Nouveautés 1.2</h3><ul><li><b>Vue « Ailleurs »</b> — tous les fichiers récents, même hors dossiers surveillés.</li><li><b>Dégradé de récence</b> sur les dates (clair = aujourd'hui → bleu = plus ancien).</li><li><b>Mémoire « Ouvrir avec »</b> par type de fichier.</li><li><b>Miniatures vidéo</b> qui s'affichent même pour les rendus tout juste terminés.</li><li>OneDrive via le partage natif du Finder, message de chargement, et corrections.</li></ul><hr><h3>What's new in 1.2</h3><ul><li><b>« Elsewhere » view</b> — all recent files, even outside watched folders.</li><li><b>Recency gradient</b> on dates (light = today → blue = older).</li><li><b>« Open with » memory</b> per file type.</li><li><b>Video thumbnails</b> now appear even for just-finished renders.</li><li>OneDrive via native Finder sharing, loading message, and fixes.</li></ul>]]></description>
-      <pubDate>Wed, 03 Jun 2026 20:58:40 +0200</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <title>Version 1.3</title>
+      <description><![CDATA[<h3>Nouveautés 1.3</h3><ul><li><b>Ouverture instantanée</b> — l'index des fichiers se prépare en arrière-plan dès le lancement de l'app, donc plus de temps de chargement au premier affichage de la fenêtre.</li></ul><hr><h3>What's new in 1.3</h3><ul><li><b>Instant open</b> — the file index now prepares in the background at app launch, so no more loading delay the first time you open the window.</li></ul>]]></description>
+      <pubDate>Thu, 04 Jun 2026 09:21:48 +0200</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/mysteropodes/RecentDrop/releases/download/v1.2/RecentDrop-1.2.zip"
-                 length="2704685"
+      <enclosure url="https://github.com/mysteropodes/RecentDrop/releases/download/v1.3/RecentDrop-1.3.zip"
+                 length="2704688"
                  type="application/octet-stream"
-                 sparkle:edSignature="aSjG4WdFHOXElzCgyMfohGl5djAEljw1l6e1/RSQGIvn/5TEFrisPz4Y32LVIy+mr4MxS6cUP6UmZHIaW2xuDA==" />
+                 sparkle:edSignature="7/sX7//6Md2mlcucYEnOMniWPTq8YG4RtBitrCE67VJmt+SEj1pqiI+eQpK4iOM+JIbG5IgK6KcwcRLeV6XnCA==" />
     </item>
   </channel>
 </rss>
