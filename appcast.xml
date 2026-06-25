@@ -6,16 +6,16 @@
     <description>Most recent changes for RecentDrop.</description>
     <language>en</language>
     <item>
-      <title>Version 1.3</title>
-      <description><![CDATA[<h3>Nouveautés 1.3</h3><ul><li><b>Ouverture instantanée</b> — l'index des fichiers se prépare en arrière-plan dès le lancement de l'app, donc plus de temps de chargement au premier affichage de la fenêtre.</li></ul><hr><h3>What's new in 1.3</h3><ul><li><b>Instant open</b> — the file index now prepares in the background at app launch, so no more loading delay the first time you open the window.</li></ul>]]></description>
-      <pubDate>Thu, 04 Jun 2026 09:21:48 +0200</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <title>Version 1.4</title>
+      <description><![CDATA[<h3>Nouveautés 1.4</h3><ul><li><b>Correctif performance majeur</b> — le menu « Ouvrir avec » interrogeait le système pour chaque fichier à chaque rafraîchissement, faisant grimper le CPU et la mémoire. C'est désormais mis en cache : consommation fortement réduite.</li></ul><hr><h3>What's new in 1.4</h3><ul><li><b>Major performance fix</b> — the « Open with » menu was querying the system for every file on every refresh, spiking CPU and memory. It's now cached: greatly reduced resource usage.</li></ul>]]></description>
+      <pubDate>Thu, 25 Jun 2026 15:08:03 +0200</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/mysteropodes/RecentDrop/releases/download/v1.3/RecentDrop-1.3.zip"
-                 length="2704688"
+      <enclosure url="https://github.com/mysteropodes/RecentDrop/releases/download/v1.4/RecentDrop-1.4.zip"
+                 length="2709520"
                  type="application/octet-stream"
-                 sparkle:edSignature="7/sX7//6Md2mlcucYEnOMniWPTq8YG4RtBitrCE67VJmt+SEj1pqiI+eQpK4iOM+JIbG5IgK6KcwcRLeV6XnCA==" />
+                 sparkle:edSignature="/O8Pe5l2f28juJox5qjDuOfg4fJBVw6eZ4ttJaRUmI2Q7fbAtxRWmSmcRCjS/+2tPxwvi4CjuZyqIiMIxSjADw==" />
     </item>
   </channel>
 </rss>
